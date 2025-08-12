@@ -994,22 +994,22 @@ Overall, this project not only improved my technical skills but also showed me h
 
 ## Key Learnings
 
--   **C# and .Net:** Furthered my knowledge of C# and .Net, how they work together, and how they differ from other languages and platforms.
+-   **C# and .Net:** Improved my knowledge of C# and .NET, learned how to create a custom classes that extend from a built-in classes, pass data between controllers, models, and views, handle errors, use built-in tools effectively.
 
--   **Entity Framework Proficiency:** Deepened my understanding of model creation, relationships, migrations, and data context management.
+-   **Entity Framework Proficiency:** Learned more about creating models, setting up relationships, running migrations, and working with the data context.
 
--   **AJAX and Partial Views:** Implemented dynamic sorting using Ajax, improving responsiveness without full page reloads.
+-   **Improving UX with AJAX:** Used the fetch() API to handle Ajax requests for deleting items, which made the app faster by avoiding full page reloads.
 
--   **Frontend Styling & UX:** Styled Razor views with Bootstrap and enhance interactivity using JavaScript.
+-   **Frontend Styling & UX:** Styled Razor views with Bootstrap and made them more interactive using JavaScript.
 
--   **Agile Practices:** Participated in daily stand-ups, sprint planning, and retrospectives, strengthening my project management and communication skills.
+-   **Agile Practices:** Took part in daily stand-ups, sprint planning, and retrospectives, which helped me improve my teamwork and communication skills.
 
--   **Time Management:** Balanced multiple tasks within sprint deadlines, prioritizing features and fixing bugs efficiently.
+-   **Time Management:** Managed several tasks during a sprint, focusing on the most important features and fixing bugs on time.
 
--   **Debugging & Problem Solving:** Throughout the project, I developed ability to troubleshoot errors, read error messages carefully, and find creative solutions when things didn’t work as expected.
+-   **Debugging & Problem Solving:** Got better at reading error messages, figuring out why something wasn’t working, and coming up with solutions.
 
--   **Version Control & DevOps Tools:** I became more confident using Git to track changes and manage code collaboratively. I also gained hands-on experience with Azure DevOps for organizing tasks, managing sprints, and collaborating with teammates in a structured development workflow.
+-   **Version Control & DevOps Tools:** Became more comfortable using Git for version control and worked with Azure DevOps to manage tasks, and team collaboration.
 
--   **Research & Self-Learning:** When I faced unfamiliar tasks or bugs, I actively researched documentation and online resources to find solutions, improving my ability to learn independently and quickly.
+-   **Research & Self-Learning:** Gained experience working on tasks I had never done before. Looking up documentation, watching tutorials, searching for answers on the internet, and learning new features helped me complete these tasks successfully.
 
 _Jump To: [Introduction](#introduction), [BlogAuthor Create Model & CRUD Pages](#blogauthor-create-model--crud-pages), [BlogAuthor Part 2: Details & Delete Pages](#blogauthor-part-2-details--delete-pages), [BlogAuthor Part 4: Async Delete From Index](#blogauthor-part-4-async-delete-from-index), [Link BlogAuthor & BlogPost Models](#link-blogauthor--blogpost-models), [BlogPost Part 2: Index Page](#blogpost-part-2-index-page), [BlogPost Part 4: Index - Delete Modal](#blogpost-part-4-index---delete-modal), [HeadAuthor Part 2: Seed HeadAuthor](#headauthor-part-2-seed-headauthor)_
