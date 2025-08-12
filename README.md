@@ -442,7 +442,11 @@ function deleteBlogAuthor() {
 
 <img src="./media-files/story5.gif"  width="100%" height="100%"/>
 
+---
+
 _Jump To: [Introduction](#introduction), [BlogAuthor Create Model & CRUD Pages](#blogauthor-create-model--crud-pages), [BlogAuthor Part 2: Details & Delete Pages](#blogauthor-part-2-details--delete-pages), [BlogAuthor Part 4: Async Delete From Index](#blogauthor-part-4-async-delete-from-index), [Link BlogAuthor & BlogPost Models](#link-blogauthor--blogpost-models), [BlogPost Part 2: Index Page](#blogpost-part-2-index-page), [BlogPost Part 4: Index - Delete Modal](#blogpost-part-4-index---delete-modal), [HeadAuthor Part 2: Seed HeadAuthor](#headauthor-part-2-seed-headauthor)_
+
+---
 
 ## BlogPost Create Model & CRUD Pages
 
@@ -584,7 +588,11 @@ To make the form more interactive, I added a background color change and a theme
 
 <img src="./media-files/story8.gif"  width="100%" height="100%"/>
 
+---
+
 _Jump To: [Introduction](#introduction), [BlogAuthor Create Model & CRUD Pages](#blogauthor-create-model--crud-pages), [BlogAuthor Part 2: Details & Delete Pages](#blogauthor-part-2-details--delete-pages), [BlogAuthor Part 4: Async Delete From Index](#blogauthor-part-4-async-delete-from-index), [Link BlogAuthor & BlogPost Models](#link-blogauthor--blogpost-models), [BlogPost Part 2: Index Page](#blogpost-part-2-index-page), [BlogPost Part 4: Index - Delete Modal](#blogpost-part-4-index---delete-modal), [HeadAuthor Part 2: Seed HeadAuthor](#headauthor-part-2-seed-headauthor)_
+
+---
 
 ## BlogPost Part 2: Index Page
 
@@ -830,7 +838,11 @@ function showPopupMessage() {
 
 <img src="./media-files/story11.gif"  width="100%" height="100%"/>
 
+---
+
 _Jump To: [Introduction](#introduction), [BlogAuthor Create Model & CRUD Pages](#blogauthor-create-model--crud-pages), [BlogAuthor Part 2: Details & Delete Pages](#blogauthor-part-2-details--delete-pages), [BlogAuthor Part 4: Async Delete From Index](#blogauthor-part-4-async-delete-from-index), [Link BlogAuthor & BlogPost Models](#link-blogauthor--blogpost-models), [BlogPost Part 2: Index Page](#blogpost-part-2-index-page), [BlogPost Part 4: Index - Delete Modal](#blogpost-part-4-index---delete-modal), [HeadAuthor Part 2: Seed HeadAuthor](#headauthor-part-2-seed-headauthor)_
+
+---
 
 ## HeadAuthor Part 1: Create User
 
@@ -1012,4 +1024,8 @@ Overall, this project not only improved my technical skills but also showed me h
 
 -   **Research & Self-Learning:** Gained experience working on tasks I had never done before. Looking up documentation, watching tutorials, searching for answers on the internet, and learning new features helped me complete these tasks successfully.
 
+---
+
 _Jump To: [Introduction](#introduction), [BlogAuthor Create Model & CRUD Pages](#blogauthor-create-model--crud-pages), [BlogAuthor Part 2: Details & Delete Pages](#blogauthor-part-2-details--delete-pages), [BlogAuthor Part 4: Async Delete From Index](#blogauthor-part-4-async-delete-from-index), [Link BlogAuthor & BlogPost Models](#link-blogauthor--blogpost-models), [BlogPost Part 2: Index Page](#blogpost-part-2-index-page), [BlogPost Part 4: Index - Delete Modal](#blogpost-part-4-index---delete-modal), [HeadAuthor Part 2: Seed HeadAuthor](#headauthor-part-2-seed-headauthor)_
+
+---
